@@ -1,6 +1,6 @@
 # Lena Zuri.
 
-Hello My Name Is Lena Zuri! I'm a web developer. When I'm not coding, you can find me sleepu
+Hello My Name Is Lena Zuri! I'm a web developer. When I'm not coding, you can find me sleeping
 
 ## 🌟 About Me
 I Work For Blume And Work On Many Private And Public Projects In The Background.
